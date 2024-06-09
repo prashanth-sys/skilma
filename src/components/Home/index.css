@@ -1,0 +1,19 @@
+.bg-home-container {
+  background-color: #ffffff;
+  height: 100vh;
+  background-size: cover;
+}
+.nav-content {
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-top: 9px;
+  justify-content: space-between;
+}
+.logo-content {
+  display: flex;
+  align-items: center;
+}
+.logo-name {
+  color: #7e22ce;
+}
